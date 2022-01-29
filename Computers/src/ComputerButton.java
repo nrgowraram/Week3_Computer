@@ -3,7 +3,7 @@ public class ComputerButton {
 	
 	Command_Computer button;
 	public ComputerButton() {}
-	public void setCruiseCommand(Command_Computer command)
+	public void setCommand(Command_Computer command)
 	{
 		button = command;
 	}
